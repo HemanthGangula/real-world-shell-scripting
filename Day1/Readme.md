@@ -28,7 +28,7 @@ You are responsible for maintaining backups of a critical EC2 instance. The goal
 ### Installation & Usage
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/HemanthGangula/30-Days-of-Shell-Scripting.git
 
 # Navigate to script directory
 cd Day1
